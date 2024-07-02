@@ -44,5 +44,4 @@ document.getElementById('search-bar').addEventListener('input', (e) => {
     displayItems(filteredItems);
 });
 
-// Initial display of all items
 displayItems(items);
